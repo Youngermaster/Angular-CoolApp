@@ -6,9 +6,9 @@ This is my first web app using Angular, this project was generated with [Angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## About this app
+## Routes
 
-  - ### '/ ' Route
+  - ### `'/ '`
 
     - #### Button
       Using `(click)` Angular statement.
@@ -19,7 +19,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
     - #### ng Template
       Using `[(ngClass)]`, `[(ngIf)]` and `[(ngIfElse)]` Angular statement.
 
-  - ### '/list' Route
+  - ### `/list`
 
     - #### Brews
       Using `*ngIf` and `*ngFor` Angular statement.
+
+## Preview
+
+- [ ] [Image here].
+- [ ] [Image here].
+- [ ] [Image here].
